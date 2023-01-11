@@ -1,0 +1,18 @@
+body {
+    background-color: black;
+}
+
+#sign-in-box {
+    background-color: aliceblue;
+    margin: 0 auto;
+    width: 500px;
+}
+
+
+
+.btn {
+    background-color: rgb(106, 106, 160);
+}
+.btn:hover {
+    background-color: white;
+}
